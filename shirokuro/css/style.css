@@ -1,0 +1,31 @@
+@charset "UTF-8";
+* {
+	background-color:transparent;
+	font-style:normal;
+	text-decoration:none;
+	margin:0;
+	padding:0;
+}
+body {
+	border:0;
+	height:100%;
+	line-height:150%;
+	background:#777;
+	font-size:80%;
+	font-family: "ＭＳ Ｐゴシック", "MS P Gothic", sans-serif;
+	color:#646464;
+	min-width:980px;
+}
+html {
+	height:100%;
+}
+a img {
+	border:none;
+}
+
+textarea {
+	resize: none;
+}
+.box_type1{
+background:#;
+}
